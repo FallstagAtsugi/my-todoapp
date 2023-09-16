@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 export const App = () => {
-  console.log();
+  console.log(test);
   return (
     <>
       <div className="input-area">
