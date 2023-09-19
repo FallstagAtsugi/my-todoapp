@@ -6,6 +6,7 @@ export const App = () => {
     "ああああ",
     "いいいいい",
   ]);
+  console.log();
 
   const [completeTodos, setCompleteTodos] = useState(["うううう"]);
   return (
