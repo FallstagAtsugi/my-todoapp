@@ -21,8 +21,6 @@ export const App = () => {
     setTodoText("");
   };
 
-  console.log();
-
   return (
     <>
       <div className="input-area">
