@@ -27,6 +27,8 @@ export const App = () => {
     setIncompleteTodos(newTodos);
   };
 
+  console.log();
+
   return (
     <>
       <div className="input-area">
