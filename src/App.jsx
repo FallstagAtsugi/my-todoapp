@@ -27,6 +27,7 @@ export const App = () => {
     setIncompleteTodos(newTodos);
   };
 
+  console;
 
   return (
     <>
