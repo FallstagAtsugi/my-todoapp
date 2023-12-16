@@ -26,7 +26,7 @@ export const App = () => {
     newTodos.splice(index, 1);
     setIncompleteTodos(newTodos);
   };
-
+  console;
   return (
     <>
       <div className="input-area">
